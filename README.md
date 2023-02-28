@@ -11,25 +11,25 @@ Possible datasets to use: http://biogps.org/dataset/tag/periodontitis/
 (note: periodontitis is a fancy name for "gum disease")
 
 
-Poker card
+Poker card      https://archive.ics.uci.edu/ml/datasets/Poker+Hand
 
 
-Tic-tac-toe end game dataset
+Tic-tac-toe end game dataset    https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame
 
 
-Heart disease
+Heart disease      https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 
-Flower
+Flower     https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
 
 
-Energy effeciancy
+Energy effeciancy    https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
 
 
-Comedy slam preference data
+Comedy slam preference data     https://archive.ics.uci.edu/ml/datasets/YouTube+Comedy+Slam+Preference+Data
 
 
-Zoo dataset
+Zoo dataset      https://archive.ics.uci.edu/ml/datasets/Zoo
 
 
-Robot execution failures
+Robot execution failures     https://archive.ics.uci.edu/ml/datasets/Robot+Execution+Failures
