@@ -9,3 +9,27 @@ Possible idea: Analyzing gum disease data (or other dental disease)
 
 Possible datasets to use: http://biogps.org/dataset/tag/periodontitis/
 (note: periodontitis is a fancy name for "gum disease")
+
+
+Poker card
+
+
+Tic-tac-toe end game dataset
+
+
+Heart disease
+
+
+Flower
+
+
+Energy effeciancy
+
+
+Comedy slam preference data
+
+
+Zoo dataset
+
+
+Robot execution failures
