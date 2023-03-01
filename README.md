@@ -1,4 +1,6 @@
 # Please use git pull before modifying any file in Jupyter Notebook!
+# Please see the following link for how to use git pull https://datasciencebook.ca/Getting-started-with-version-control.html#pulling-changes-from-a-remote-repository
+# I'm having trouble with the read_excel function, it seems like the function is adding an extra apostrophe (') after the URL
 # dsci-100-project_template
 Template project repository for DSCI-100
 
