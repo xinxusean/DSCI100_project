@@ -1,3 +1,4 @@
+# Please use git pull before modifying any file in Jupyter Notebook!
 # dsci-100-project_template
 Template project repository for DSCI-100
 
