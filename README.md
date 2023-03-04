@@ -11,6 +11,8 @@
 
 **TODO PROJECT PROPOSAL**
 - Title
+- Fix question to be predictive
+![image](https://user-images.githubusercontent.com/81063080/222863547-f8662965-dca9-41eb-8a72-f800cfed5e5b.png)
 - Summarize the data with tables
 - Choose data analysis method and explain why
 - Describe how we will visualize our results (we should look at the textbook at their examples)
@@ -20,7 +22,4 @@
 - Condense to 500 words 
 
 **QUESTIONS TO ASK TA**
-- Our graphs look weird so we need to double check if we are allowed to use this data set (the website says we can use regression so it should be fine)
-- Ask if download.file or read.xlsx is better
-- Ask for clarification on what they want for tables
-- Double check if our question is good
+
