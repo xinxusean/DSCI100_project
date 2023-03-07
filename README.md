@@ -13,7 +13,7 @@
 - Title (done)
 - Fix question to be predictive
 ![image](https://user-images.githubusercontent.com/81063080/222863547-f8662965-dca9-41eb-8a72-f800cfed5e5b.png)
-- Summarize the data with tables
+- Summarize the data with tables (mean, mode, etc)
 - Choose data analysis method and explain why
 - Describe how we will visualize our results (we should look at the textbook at their examples)
 - What do we expect to find?
