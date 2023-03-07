@@ -10,7 +10,7 @@
 1. predicting heating load due to that being more important in vancouver 
 
 **TODO PROJECT PROPOSAL**
-- Title
+- Title (done)
 - Fix question to be predictive
 ![image](https://user-images.githubusercontent.com/81063080/222863547-f8662965-dca9-41eb-8a72-f800cfed5e5b.png)
 - Summarize the data with tables
@@ -18,7 +18,7 @@
 - Describe how we will visualize our results (we should look at the textbook at their examples)
 - What do we expect to find?
 - What impact could such findings have?
-- What future questions could this lead to?
+- What future questions could this lead to? (done)
 - Condense to 500 words 
 
 **QUESTIONS TO ASK TA**
