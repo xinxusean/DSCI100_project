@@ -11,9 +11,9 @@
 
 **TODO PROJECT PROPOSAL**
 - Title (done)
-- Fix question to be predictive (done? but double check)
+- Fix question to be predictive (done? but double check) (double checked)
 ![image](https://user-images.githubusercontent.com/81063080/222863547-f8662965-dca9-41eb-8a72-f800cfed5e5b.png)
-- Summarize the data with tables (mean, mode, etc)
+- Summarize the data with tables (mean, mode, etc) (done)
 - Choose data analysis method and explain why
 - Describe how we will visualize our results (we should look at the textbook at their examples)
 - What do we expect to find? (done? but double check)
