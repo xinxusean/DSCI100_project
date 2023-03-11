@@ -21,12 +21,12 @@
 - What future questions could this lead to? (done)
 - Condense to 500 words
 
-- Fix plots (don't scale/standarize, add units!)
+- Fix plots (don't scale/standarize, add units!) - done.
 - Describe plots
 - Check Method (are we going to split the surface area into two chunks?)
 - Fix "what do we expect to find"
-- Question is good
 - add to What do we expect to find? -> should be derived from describe plots part.
+- Question is good
 
 **QUESTIONS TO ASK TA**
 
