@@ -19,7 +19,12 @@
 - What do we expect to find? (done? but double check)
 - What impact could such findings have? (done)
 - What future questions could this lead to? (done)
-- Condense to 500 words 
+- Condense to 500 words
+
+- Fix plots (don't scale/standarize, add units!)
+- Describe plots
+- Check Method (are we going to split the surface area into two chunks?)
+- Fix "what do we expect to find"
 
 **QUESTIONS TO ASK TA**
 
