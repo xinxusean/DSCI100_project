@@ -30,14 +30,14 @@ creates a visualization of the dataset that is relevant for exploratory data ana
 - also we might also need to describe (in words, i.e. not code) what we are doing
 
 - other tasks:
-   - performing the data anlaysis (both knn and linear regression)
-   - visualize the data analysis
-   
+   - performing the data anlaysis (both knn and linear regression) (ADA)
+   - visualize the data analysis (ADA)
    - summarize what you found
-   - discuss whether this is what you expected to find?
-   - discuss what impact could such findings have?
-   - discuss what future questions could this lead to?
-   - At least 2 citations of literature relevant to the project (format is your choice, just be consistent across the references).
+   - discuss whether this is what you expected to find? (MATTIAS)
+   - discuss what impact could such findings have? (SEAN)
+   - discuss what future questions could this lead to? (DONE?)
+   - At least 2 citations of literature relevant to the project (format is your choice, just be consistent across the references). (SEAN)
+   - add the labels and legends to all the tables and diagrams
 
 **QUESTIONS TO ASK TA**
 
