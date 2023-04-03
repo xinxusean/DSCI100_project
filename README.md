@@ -9,24 +9,8 @@
 1. planning on working with surface area, overall height, and glazing area predictors
 1. predicting heating load due to that being more important in vancouver 
 
-**TODO PROJECT PROPOSAL**
-- Title (done)
-- Fix question to be predictive (done? but double check) (double checked)
-![image](https://user-images.githubusercontent.com/81063080/222863547-f8662965-dca9-41eb-8a72-f800cfed5e5b.png)
-- Summarize the data with tables (mean, mode, etc) (done)
-- Choose data analysis method and explain why
-- Describe how we will visualize our results (we should look at the textbook at their examples)
-- What do we expect to find? (done? but double check)
-- What impact could such findings have? (done)
-- What future questions could this lead to? (done)
-- Condense to 500 words
-
-- Fix plots (don't scale/standarize, add units!) - done.
-- Describe plots
-- Check Method (are we going to split the surface area into two chunks?)
-- Fix "what do we expect to find"
-- add to What do we expect to find? -> should be derived from describe plots part.
-- Question is good
+**PROJECT REPORT TODO**
+ - everything
 
 **QUESTIONS TO ASK TA**
 
