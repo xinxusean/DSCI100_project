@@ -1,8 +1,10 @@
+# Please use/make edits to ProjectReport.ipynb NOT ProjectProposal.ipynb
 # Please use git pull before modifying any file in Jupyter Notebook!
 # Please see the following link for how to use git pull https://datasciencebook.ca/Getting-started-with-version-control.html#pulling-changes-from-a-remote-repository
 
 https://ubc.zoom.us/j/69584216044?pwd=c3ZOajBSS0lyS0RvQ1h3MlhuMHpxQT09
-695 8421 6044 passcode 501204 Apr 10, 2023 02:00 PM Vancouver
+695 8421 6044 passcode 501204
+Apr 10, 2023 02:00 PM Vancouver
 
 *Project Info Notes:* https://docs.google.com/document/d/16KH3VHFBkNK44VXUcl2z_SKX3jJ644Mw-Ivczh8frhc/edit?usp=sharing
 
