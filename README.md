@@ -15,8 +15,20 @@ Apr 10, 2023 02:00 PM Vancouver
 1. predicting heating load due to that being more important in vancouver 
 
 **PROJECT REPORT TODO**
- - everything
- - it seems like 
+ - Dataset Dictionary (TA feedback)
+ - Update Method to explain what we are doing
+ - Comparison of K-NN vs Linear Regression
+ - Summary of Findings
+ - Is This What We Expected
+ - Future Questions (if it needs to be updated)
+ - Make sure to add quotes from sources somewhere
+ - The lovely panic about word count
+ - Add figure numbers (at the end)
+ 
+ **QUESTIONS TO ASK TA**
+ - Ask about potentially different predictors for knn vs linear regression
+ - Ask about how we split up our code blocks
+ - Ask about best k being 1
  
  Title
 Introduction:
@@ -43,6 +55,4 @@ creates a visualization of the dataset that is relevant for exploratory data ana
    - discuss what future questions could this lead to? (DONE?)
    - At least 2 citations of literature relevant to the project (format is your choice, just be consistent across the references). (SEAN) https://docs.google.com/document/d/1eoOzmqIawpVto1p7KN6TKj_YG9I7e_B-KnJK7tCzbtw/edit?usp=sharing (highlighted ones are the ones I plan to use)
    - add the labels and legends to all the tables and diagrams
-
-**QUESTIONS TO ASK TA**
 
