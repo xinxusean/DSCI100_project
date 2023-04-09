@@ -35,7 +35,7 @@ creates a visualization of the dataset that is relevant for exploratory data ana
 - also we might also need to describe (in words, i.e. not code) what we are doing
 
 - other tasks:
-   - performing the data anlaysis (both knn and linear regression) (ADA)
+   - performing the data anlaysis (both knn and linear regression) (ADA) SEAN?
    - visualize the data analysis (ADA)
    - summarize what you found
    - discuss whether this is what you expected to find? (MATTIAS)
