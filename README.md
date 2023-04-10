@@ -37,6 +37,7 @@ Apr 10, 2023 02:00 PM Vancouver
  - Summary of findings: (only summarize for Linear regresion or also summarize for K-NN as well), likely both
  - also do we need to describe (in words, i.e. not code) what we are doing?
  - do we need the coeffecients block? (it's dupliated from the above)
+ - how to visualize the results given that we have 3 predictors
  
  Title
 Introduction:
