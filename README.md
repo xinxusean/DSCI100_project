@@ -15,7 +15,7 @@ Apr 10, 2023 02:00 PM Vancouver
 1. predicting heating load due to that being more important in vancouver 
 
 **PROJECT REPORT TODO**
- - Dataset Dictionary (TA feedback) - Sean
+ - Dataset Dictionary (TA feedback) - Sean - by April 10 evening.
  - Update Method to explain what we are doing - Mattias
  - Comparison of K-NN vs Linear Regression - Jiawei
  - visualize the data analysis (ADA)
