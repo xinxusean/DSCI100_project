@@ -17,7 +17,7 @@ Apr 10, 2023 02:00 PM Vancouver
 **PROJECT REPORT TODO**
  - Dataset Dictionary (TA feedback) - Sean - by April 10 evening.
  - Update Method to explain what we are doing - Mattias
- - Comparison of K-NN vs Linear Regression - Jiawei
+ - Comparison of K-NN vs Linear Regression - Jiawei - DONE
  - visualize the data analysis (ADA)
  - Add comments to describe what code is doing (if necessary)
  - Summary of Findings - Ada/Mattias
