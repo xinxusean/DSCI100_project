@@ -17,14 +17,14 @@ Apr 10, 2023 02:00 PM Vancouver
 **PROJECT REPORT TODO**
  - Dataset Dictionary (TA feedback) - Sean
  - Update Method to explain what we are doing - Mattias
- - Comparison of K-NN vs Linear Regression
+ - Comparison of K-NN vs Linear Regression - Jiawei
  - visualize the data analysis (ADA)
- - Summary of Findings - Ada
- - Is This What We Expected
- - Future Questions (if it needs to be updated)
+ - Summary of Findings - Ada/Mattias
+ - Is This What We Expected - (MATTIAS)
+ - Future Questions (if it needs to be updated) - Sean
  - Make sure to add quotes from sources somewhere - Sean
  - The lovely panic about word count
- - Add figure numbers (at the end)
+ - Add figure numbers (at the end) add the labels and legends to all the tables and diagrams - Jiawei
  
  **QUESTIONS TO ASK TA**
  - Ask about potentially different predictors for knn vs linear regression
@@ -35,6 +35,7 @@ Apr 10, 2023 02:00 PM Vancouver
  - ask how to do this with more than 1 predictor variable (both knn and linear regression)
  - Summary of findings: (only summarize for Linear regresion or also summarize for K-NN as well), likely both
  - also we might also need to describe (in words, i.e. not code) what we are doing
+ - do we need the coeffecients block? (it's dupliated from the above)
  
  Title
 Introduction:
