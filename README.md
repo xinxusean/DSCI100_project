@@ -15,13 +15,14 @@ Apr 10, 2023 02:00 PM Vancouver
 1. predicting heating load due to that being more important in vancouver 
 
 **PROJECT REPORT TODO**
- - Dataset Dictionary (TA feedback)
- - Update Method to explain what we are doing
+ - Dataset Dictionary (TA feedback) - Sean
+ - Update Method to explain what we are doing - Mattias
  - Comparison of K-NN vs Linear Regression
- - Summary of Findings
+ - visualize the data analysis (ADA)
+ - Summary of Findings - Ada
  - Is This What We Expected
  - Future Questions (if it needs to be updated)
- - Make sure to add quotes from sources somewhere
+ - Make sure to add quotes from sources somewhere - Sean
  - The lovely panic about word count
  - Add figure numbers (at the end)
  
@@ -29,6 +30,11 @@ Apr 10, 2023 02:00 PM Vancouver
  - Ask about potentially different predictors for knn vs linear regression
  - Ask about how we split up our code blocks
  - Ask about best k being 1
+ - Ask which values of k we should be testing, we are currently jumping by 1s from 1 to 100. Do we need to justify this?
+ - Set seed to different values changes what the best k is
+ - ask how to do this with more than 1 predictor variable (both knn and linear regression)
+ - Summary of findings: (only summarize for Linear regresion or also summarize for K-NN as well), likely both
+ - also we might also need to describe (in words, i.e. not code) what we are doing
  
  Title
 Introduction:
@@ -47,8 +53,8 @@ creates a visualization of the dataset that is relevant for exploratory data ana
 - also we might also need to describe (in words, i.e. not code) what we are doing
 
 - other tasks:
-   - performing the data anlaysis (both knn and linear regression) (ADA) SEAN?
-   - visualize the data analysis (ADA)
+   - performing the data anlaysis (both knn and linear regression) (ADA) SEAN? DONE
+   - visualize the data analysis (ADA) - 
    - summarize what you found
    - discuss whether this is what you expected to find? (MATTIAS)
    - discuss what impact could such findings have? (SEAN) - there are currently tools that help architects design energy effecient buildings, our findings and the dataset we used could help them refine and evaluate their tools. http://designadvisor.mit.edu/design/papers/urban_glicksman_simbuild_2006.pdf
