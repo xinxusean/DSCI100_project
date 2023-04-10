@@ -34,7 +34,7 @@ Apr 10, 2023 02:00 PM Vancouver
  - Set seed to different values changes what the best k is
  - ask how to do this with more than 1 predictor variable (both knn and linear regression)
  - Summary of findings: (only summarize for Linear regresion or also summarize for K-NN as well), likely both
- - also we might also need to describe (in words, i.e. not code) what we are doing
+ - also do we need to describe (in words, i.e. not code) what we are doing?
  - do we need the coeffecients block? (it's dupliated from the above)
  
  Title
