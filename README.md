@@ -19,6 +19,7 @@ Apr 10, 2023 02:00 PM Vancouver
  - Update Method to explain what we are doing - Mattias
  - Comparison of K-NN vs Linear Regression - Jiawei
  - visualize the data analysis (ADA)
+ - Add comments to describe what code is doing (if necessary)
  - Summary of Findings - Ada/Mattias
  - Is This What We Expected - (MATTIAS)
  - Future Questions (if it needs to be updated) - Sean
@@ -53,13 +54,6 @@ creates a visualization of the dataset that is relevant for exploratory data ana
 - the part above is already done (from project proposal), though we should add a label the table and figures with a number and a legend
 - also we might also need to describe (in words, i.e. not code) what we are doing
 
-- other tasks:
-   - performing the data anlaysis (both knn and linear regression) (ADA) SEAN? DONE
-   - visualize the data analysis (ADA) - 
-   - summarize what you found
-   - discuss whether this is what you expected to find? (MATTIAS)
-   - discuss what impact could such findings have? (SEAN) - there are currently tools that help architects design energy effecient buildings, our findings and the dataset we used could help them refine and evaluate their tools. http://designadvisor.mit.edu/design/papers/urban_glicksman_simbuild_2006.pdf
-   - discuss what future questions could this lead to? (DONE?)
-   - At least 2 citations of literature relevant to the project (format is your choice, just be consistent across the references). (SEAN) https://docs.google.com/document/d/1eoOzmqIawpVto1p7KN6TKj_YG9I7e_B-KnJK7tCzbtw/edit?usp=sharing (highlighted ones are the ones I plan to use)
-   - add the labels and legends to all the tables and diagrams
+https://docs.google.com/document/d/1eoOzmqIawpVto1p7KN6TKj_YG9I7e_B-KnJK7tCzbtw/edit?usp=sharing (highlighted ones are the ones I plan to use)
+
 
