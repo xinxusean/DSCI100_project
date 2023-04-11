@@ -39,6 +39,7 @@ Apr 10, 2023 02:00 PM Vancouver
  - do we need the coeffecients block? (it's dupliated from the above)
  - how to visualize the results given that we have 3 predictors
  - For dataset dictionary, what are the units for relative compactness and glazing area distribution? Also cannot seem to print out all rows of the tibble or if all rows are printed out, the information is truncated (i.e. replaced with "...")
+ - Any particular things that should go into the "future questions" part
  
  Title
 Introduction:
