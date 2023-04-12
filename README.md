@@ -1,4 +1,4 @@
-# EDITING TIMESLOTS: ADA: 2-4PM, SEAN 4-6PM, JIAWEI: ??-??PM To avoid merge conflicts, please do not edit outside of these times
+# EDITING TIMESLOTS: ADA: 2-4PM, SEAN 4-6PM, JIAWEI: 12-2PM To avoid merge conflicts, please do not edit outside of these times
 # Please use/make edits to ProjectReport.ipynb NOT ProjectProposal.ipynb
 # Please use git pull before modifying any file in Jupyter Notebook!
 # Please see the following link for how to use git pull https://datasciencebook.ca/Getting-started-with-version-control.html#pulling-changes-from-a-remote-repository
